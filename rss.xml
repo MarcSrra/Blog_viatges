@@ -1,0 +1,27 @@
+<rss version="2.0">
+    <channel>
+        <title>Blog de Viatges Marc Serra</title>
+        <link>http://abp-politecnics.com/2022/dawdam25/</link>
+        <description>Noves notícies del nostre Blog de Viatges</description>
+        <item>
+            <title>Viajar a Londres</title>
+            <link>http://abp-politecnics.com/2022/dawdam25/blogviajes%20-%20FINALIZADO/#</link>
+            <description>Article que explica les diferents opcions i formes que tenim disponibles per viatjar a Londres</description>
+            <author>mserrais2122@politecnics.barcelona</author>
+            
+        </item>
+        <item>
+            <title>Puente de la Torre</title>
+            <link>http://abp-politecnics.com/2022/dawdam25/blogviajes%20-%20FINALIZADO/#</link>
+            <description>New XML tutorial on W3Schools</description>
+        </item>
+        <Copyright>Copyright 2022 Centre d'Estudis Politècnics</Copyright>
+        <image>
+            <url>http://abp-politecnics.com/2022/dawdam25/</url>
+            <title>Logo</title>
+            <link>http://abp-politecnics.com/2022/dawdam04//img/pic_rss.gif</link>
+        </image>
+        <language>es</language>
+</channel>
+    </channel>
+</rss>
