@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	color: #fff;
+}
+body {
+	background-image: url(../imagenes/texture.jpg);
+	background-repeat: repeat;
+}
+#divCabecera {
+	height: 72px;
+}
+#divLogo {
+	float: left;
+	width: 72px;
+	height: 100%;
+	background-image: url(../imagenes/logo.png);
+}
+#divLema {
+	float: left;
+	width: 113px;
+	height: 100%;
+	background-image: url(../imagenes/lema.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#divMenu {
+	height: 20px;
+}
+
+li {
+	display: block;
+	float: left;
+	height: 20px;
+	width: 200px;
+	text-align: center;
+  	background-color: #4785b7;
+	margin-left: 10px;
+}
+
+li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 9px;
+	margin-left: 5px;
+}
+
+.libro {
+	float: left;
+	width: 350px;
+	height: 240px;
+	margin: 35px;
+}
+.imagen {
+	float: left;
+	width: 106px;
+	height: 141px;
+}
+#divDatos {
+	float: left;
+	margin-left: 15px;
+}
+.autor {
+	color: #4785b7;;
+	font-size: 8pt;
+	padding-bottom: 10px;
+	width: 220px;
+}
+.titulo {
+	font-variant: small-caps;
+	font-size: 12pt;
+	padding-bottom: 10px;
+	width: 220px;
+}
+.genero {
+	text-transform: uppercase;
+	font-size: 8pt;
+	padding-bottom: 10px;
+	color: #c6c6c6;
+	width: 220px;
+}
+.estrella1 {
+	width: 11px;
+	height: 12px;
+}
+.estrella2 {
+	width: 21px;
+	height: 12px;
+}
+.estrella3 {
+	width: 32px;
+	height: 12px;
+}
+.estrella4 {
+	width: 42px;
+	height: 12px;
+}
+.estrella5 {
+	width: 54px;
+	height: 12px;
+}

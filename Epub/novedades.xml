@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="epub.xsl"?>
+<libros>
+	<lista>Novedades</lista>
+	<libro>
+		<imagen>imagenes/novedades/honorable_colegial.jpg</imagen>
+		<autores>
+			<autor>John Le Carr�</autor>
+		</autores>
+		<titulo>El honorable colegial</titulo>
+		<generos>
+			<genero>Intriga</genero>
+		</generos>
+		<puntuacion>5</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/majestic.jpg</imagen>
+		<autores>
+			<autor>Whitley Strieber</autor>
+		</autores>
+		<titulo>Majestic</titulo>
+		<generos>
+			<genero>Ciencia Ficci�n</genero>
+			<genero>Hist�rico</genero>
+		</generos>
+		<puntuacion>3</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/nivel_5.jpg</imagen>
+		<autores>
+			<autor>Douglas Preston</autor>
+			<autor>Lincoln Child</autor>
+		</autores>
+		<titulo>Nivel 5</titulo>
+		<generos>
+			<genero>Intriga</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/cronicas_castillo.jpg</imagen>
+		<autores>
+			<autor>Michael Moorcock</autor>
+		</autores>
+		<titulo>Cr�nicas del castillo de Brass</titulo>
+		<generos>
+			<genero>Fant�stico</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/prescripcion_facultativa.jpg</imagen>
+		<autores>
+			<autor>Diane Duane</autor>
+		</autores>
+		<titulo>Por prescripci�n facultativa</titulo>
+		<generos>
+			<genero>Ciencia ficci�n</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/ethan.jpg</imagen>
+		<autores>
+			<autor>Lois McMaster Bujold</autor>
+		</autores>
+		<titulo>Ethan de Athos</titulo>
+		<generos>
+			<genero>Ciencia Ficci�n</genero>
+		</generos>
+		<puntuacion>5</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/edad_oro.jpg</imagen>
+		<autores>
+			<autor>John C. Wright</autor>
+		</autores>
+		<titulo>La edad de oro</titulo>
+		<generos>
+			<genero>Ciencia Ficci�n</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/enredo_bolsa.jpg</imagen>
+		<autores>
+			<autor>Eduardo Mendoza</autor>
+		</autores>
+		<titulo>El enredo de la bolsa y la vida</titulo>
+		<generos>
+			<genero>Humor</genero>
+			<genero>Intriga</genero>
+			<genero>Polic�aco</genero>
+		</generos>
+		<puntuacion>5</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/el_guion.jpg</imagen>
+		<autores>
+			<autor>Robert McKee</autor>
+		</autores>
+		<titulo>El gui�n</titulo>
+		<generos>
+			<genero>Otros</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/fabulosas_narraciones.jpg</imagen>
+		<autores>
+			<autor>Antonio Orejudo</autor>
+		</autores>
+		<titulo>Fabulosas narraciones por historias</titulo>
+		<generos>
+			<genero>Hist�rico</genero>
+			<genero>Humor</genero>
+		</generos>
+		<puntuacion>5</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/acqua_alta.jpg</imagen>
+		<autores>
+			<autor>Donna Leon</autor>
+		</autores>
+		<titulo>Acqua alta</titulo>
+		<generos>
+			<genero>Intriga</genero>
+			<genero>Polic�aco</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+	<libro>
+		<imagen>imagenes/novedades/las_hormigas.jpg</imagen>
+		<autores>
+			<autor>Bernard Werber</autor>
+		</autores>
+		<titulo>Las hormigas</titulo>
+		<generos>
+			<genero>Ciencia</genero>
+			<genero>Fant�stico</genero>
+			<genero>Intriga</genero>
+		</generos>
+		<puntuacion>4</puntuacion>
+	</libro>
+</libros>
