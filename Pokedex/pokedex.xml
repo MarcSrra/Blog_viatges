@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pokedex.xsl"?>
+<pokedex>
+	<pokemon numero="001">
+		<imagen>imagenes/001.png</imagen>
+		<nombre>Bulbasur</nombre>
+		<tipos>
+			<tipo>Planta</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="002">
+		<imagen>imagenes/002.png</imagen>
+		<nombre>Ivysaur</nombre>
+		<tipos>
+			<tipo>Planta</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="003">
+		<imagen>imagenes/003.png</imagen>
+		<nombre>Venusaur</nombre>
+		<tipos>
+			<tipo>Planta</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="004">
+		<imagen>imagenes/004.png</imagen>
+		<nombre>Charmander</nombre>
+		<tipos>
+			<tipo>Fuego</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="005">
+		<imagen>imagenes/005.png</imagen>
+		<nombre>Charmeleon</nombre>
+		<tipos>
+			<tipo>Fuego</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="006">
+		<imagen>imagenes/006.png</imagen>
+		<nombre>Charizard</nombre>
+		<tipos>
+			<tipo>Fuego</tipo>
+			<tipo>Volador</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="007">
+		<imagen>imagenes/007.png</imagen>
+		<nombre>Squirtle</nombre>
+		<tipos>
+			<tipo>Agua</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="008">
+		<imagen>imagenes/008.png</imagen>
+		<nombre>Wartortle</nombre>
+		<tipos>
+			<tipo>Agua</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="009">
+		<imagen>imagenes/009.png</imagen>
+		<nombre>Blastoise</nombre>
+		<tipos>
+			<tipo>Agua</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="010">
+		<imagen>imagenes/010.png</imagen>
+		<nombre>Caterpie</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="011">
+		<imagen>imagenes/011.png</imagen>
+		<nombre>Metapod</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="012">
+		<imagen>imagenes/012.png</imagen>
+		<nombre>Butterfree</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+			<tipo>Volador</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="013">
+		<imagen>imagenes/013.png</imagen>
+		<nombre>Weedle</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="014">
+		<imagen>imagenes/014.png</imagen>
+		<nombre>Kakuna</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="015">
+		<imagen>imagenes/015.png</imagen>
+		<nombre>Beedrill</nombre>
+		<tipos>
+			<tipo>Bicho</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+	</pokemon>
+	<pokemon numero="016">
+		<imagen>imagenes/016.png</imagen>
+		<nombre>Pidgey</nombre>
+		<tipos>
+			<tipo>Normal</tipo>
+			<tipo>Volador</tipo>
+		</tipos>
+	</pokemon>
+</pokedex>

@@ -1,0 +1,92 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Flexo-Demi",arial,sans-serif;
+}
+
+body
+{
+	background-color: #000;
+}
+
+section, footer, article
+{
+	display: block;
+}
+
+#tot
+{
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+section
+{
+	background-color: #fff;
+}
+
+article
+{
+	width: 215px;
+	height: 276px;
+	float: left;
+	margin: 15px;
+}
+
+article img
+{
+	background-color: #f2f2f2;
+	border-radius: 5px 5px 5px 100px;
+}
+.numero
+{
+	padding-left: 10px;
+	color: #919191;
+	font-size: 11px;
+}
+.nombre
+{
+	font-size: 24px;
+}
+.planta, .veneno, .fuego, .volador, .agua, .bicho
+{
+	display: inline-block;
+	border-radius: 5px;
+	width: 100px;
+	font-size: 12px;
+	text-align: center;
+}
+.planta
+{
+	background-color: #9bcc50;
+}
+.veneno
+{
+	background-color: #B97FC9;
+	color: #fff;
+}
+.fuego
+{
+	background-color: #fd7d24;
+	color: #fff;
+}
+.volador
+{
+	background-color: #BDB9B8;
+}
+.agua
+{
+	background-color: #4592C4;
+	color: #fff;
+}
+.bicho
+{
+	background-color: #729F3F;
+	color: #fff;
+}
+footer
+{
+	clear: both;
+}
