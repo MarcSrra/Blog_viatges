@@ -1,0 +1,159 @@
+body
+{
+	background-color: #dededd;
+	color: #000000;
+	font: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+header, aside, footer
+{
+	display: block;
+}
+#todo
+{
+	position: relative;
+	width: 988px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#cabecera
+{
+	position: relative;
+	background-image: url(../imatges_balana/logo.gif);
+	background-repeat: no-repeat;
+	background-color: #ffffff;
+	width: 100%;
+	height: 85px;
+}
+#izquierdo
+{
+	float: left;
+	width: 230px;
+	margin-top: 10px;
+}
+#menu
+{
+	float: left;
+	width: 228px;
+	background-color: #ffffff;
+	border-right: solid 3px #cccccc;
+	border-left: solid 3px #cccccc;
+	margin-left: 1px;
+}
+#derecho
+{
+	float: left;
+	margin-left: 7px;
+	margin-top: 10px;
+	width: 745px;
+}
+#informacion
+{
+	float: left;
+	width: 743px;
+	background-color: #ffffff;
+	border-right: solid 3px #cccccc;
+	border-left: solid 3px #cccccc;
+	margin-left: 1px;
+}
+
+#todo>footer
+{
+	clear: both;
+	position: relative;
+	background-image: url(../imatges_balana/peu.gif);
+	width: 100%;
+	height: 40px;
+}
+#todo>footer>p
+{
+	font-size: 0.8em;
+	display: block;
+	color: #ffffff;
+	margin-left: 10px;
+	/* Padding modificat perque quedi el text centrat */
+	padding-top: 13px;
+}
+
+/* Estilos de los datos de los cines */
+
+#menu>p
+{
+	display: block;
+	/* Width disminuida perque el block no sobresurti */
+	width: 218px;
+	background-color: #606393;
+	color: #ffffff;
+	margin-left: 5px;
+	height: 20px;
+	padding-top: 3px;
+	padding-left: 5px;
+}
+ul
+{
+	list-style: none;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding: 0px;
+}
+li a
+{
+	display: block;
+	width: 220px;
+	height: 20px;
+	border-bottom: dotted 1px #cccccc;
+	text-decoration: none;
+}
+li a:hover
+{
+	background-color: #e9e8ef;
+}
+.titulo
+{
+	display: block;
+	/* Width disminuida perque el block no sobresurti */
+	width: 733px;
+	background-color: #202559;
+	color: #ffffff;
+	margin-left: 5px;
+	height: 20px;
+	padding-top: 3px;
+	padding-left: 5px;
+}
+.cine
+{
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid 1px #dededd;
+	width: 360px;
+	height: 90px;
+}
+.img_cine
+{
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	width: 120px;
+	height: 80px;
+}
+.nombre_cine
+{
+	position: relative;
+	display: block;
+	color: #202559;
+	font-size: 0.8em;
+	font-weight: bold;
+	left: 5px;
+	margin-top: 5px;
+}
+.dades
+{
+	display: block;
+	position: relative;
+	font-size: 0.8em;
+	color: #666666;
+	font-weight: bold;
+	top: 10px; 
+	left: 5px;
+}

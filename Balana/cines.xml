@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="balana.xsl"?>
+<grup_balana tipo_sala="CINES">
+	<sala>
+		<nombre>ARENAS DE BARCELONA MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/arenas.jpg</imagen>
+		<direccion>Gran Via, 385 08015 Barcelona</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>ARIBAU CLUB 2 SALAS</nombre>
+		<imagen>imatges_balana/cines/aribau_club.jpg</imagen>
+		<direccion>Gran V�a de les Corts Catalanes, 565-567</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>ARIBAU MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/aribau.jpg</imagen>
+		<direccion>Aribau 5 y 8-10</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>BOSQUE MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/bosque.jpg</imagen>
+		<direccion>Rambla de Prat, 16</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>CLUB COLISEUM</nombre>
+		<imagen>imatges_balana/cines/club_coliseum.jpg</imagen>
+		<direccion>Rambla Catalunya, 23</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>GLORIES MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/glories.jpg</imagen>
+		<direccion>Diagonal, 208 (Ctre Comercial Les Gl�ries)</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>GRAN SARRIA MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/gran_sarria.jpg</imagen>
+		<direccion>Ronda General Mitre, 38-44</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>PALAU BALA�A MULTISALAS</nombre>
+		<imagen>imatges_balana/cines/palau_balana.jpg</imagen>
+		<direccion>Carrer de Sant Antoni, 43</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+	<sala>
+		<nombre>URGEL</nombre>
+		<imagen>imatges_balana/cines/urgell.jpg</imagen>
+		<direccion>Carrer del Compte d'Urgell, 29-33</direccion>
+		<telefono>902 42 42 43</telefono>
+	</sala>
+</grup_balana>

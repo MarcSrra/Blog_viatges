@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="balana.xsl"?>
+<grup_balana tipo_sala="TEATROS">
+	<sala>
+		<nombre>CLUB CAPITOL SALA2</nombre>
+		<imagen>vacia</imagen>
+		<direccion>Rambles, 138</direccion>
+		<telefono>Tel. 902 33 22 11</telefono>
+	</sala>
+	<sala>
+		<nombre>CLUB CAPITOL SALA PEPE REUBIANES</nombre>
+		<imagen>vacia</imagen>
+		<direccion>Rambles, 138</direccion>
+		<telefono>Tel. 902 33 22 11</telefono>
+	</sala>
+	<sala>
+		<nombre>Coliseum</nombre>
+		<imagen>imatges_balana/teatros/coliseum.jpg</imagen>
+		<direccion>Gran V�a de les Corts Catalanes, 595</direccion>
+		<telefono>Tel. 902 33 22 11</telefono>
+	</sala>
+	<sala>
+		<nombre>TEATRE BORR�S</nombre>
+		<imagen>imatges_balana/teatros/borras.jpg</imagen>
+		<direccion>Pla�a Urquinaona, 9</direccion>
+		<telefono>Tel. 902 33 22 11</telefono>
+	</sala>
+	<sala>
+		<nombre>TEATRE T�VOLI</nombre>
+		<imagen>imatges_balana/teatros/tivoli.jpg</imagen>
+		<direccion>Casp, 8</direccion>
+		<telefono>Tel. 902 33 22 11</telefono>
+	</sala>
+</grup_balana>
