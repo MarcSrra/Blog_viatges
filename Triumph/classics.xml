@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="triumph.xsl"?>
+<triumph tipo="CLASSICS">
+	<titulo>Triumph Classics.  Las clásicas motocicletas británicas.</titulo>
+	<descripcion>Motores bicilíndricos en paralelo, líneas tradicionales; construidas por el fabricante con más experiencia del mundo utilizando la ingeniería más innovadora.
+Inconfundible, única y fiel al estilo, el sonido y la pasión que hacen de Triumph una marca mítica de primer nivel. Elige entre Bonneville, Scrambler o Thruxton.
+¿Quién si no Triumph?</descripcion>
+	<motos>
+		<moto modelo="SCRAMBLER">
+			<foto>imagenes/Scrambler900_MattKhaki_RHS.jpg</foto>
+			<propiedad>
+				<especificacion>Escape</especificacion>
+				<valor>Colectores de acero inoxidable cromados hasta los silenciadores</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Ruedas delanteras</especificacion>
+				<valor>Llanta de aluminio de 36 radios 19 x 2,5 pulgadas</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Motor:</especificacion>
+				<valor>Refrigeración por aire, DOHC, Bicilíndrico en paralelo, calado a 270º</valor>
+			</propiedad>
+		</moto>
+		<moto modelo="THRUXTON">
+			<foto>imagenes/Thruxton_DiabloRed_RHS.jpg</foto>
+			<propiedad>
+				<especificacion>Escape</especificacion>
+				<valor>Doble escape de acero inoxidable estilo megáfono</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Frenos delanteros</especificacion>
+				<valor>Disco flotante de 320 mm, pinza flotante de 2 pistones Nissin</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Motor</especificacion>
+				<valor>Refrigeración por aire, doble árbol de levas en culata, bicilíndrico en paralelo, cigüeñal calado a 360 grados</valor>
+			</propiedad>
+		</moto>
+		<moto modelo="BONEVILLE">
+			<foto>imagenes/BonnervilleSEOrange_RHS.jpg</foto>
+			<propiedad>
+				<especificacion>Altura del asiento</especificacion>
+				<valor>740cm 29.1in</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Motor de 865cc</especificacion>
+				<valor>Refrigeración por aire, DOHC, Bicilíndrico en paralelo, calado a 360º</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Ruedas delatera</especificacion>
+				<valor>Aleación de aluminio de 7 radios, 17 x 3,0 pulgadas</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Escape</especificacion>
+				<valor>Colectores de acero inoxidable cromados hasta los silenciadores.</valor>
+			</propiedad>
+		</moto>
+	</motos>
+</triumph>

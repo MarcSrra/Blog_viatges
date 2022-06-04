@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="triumph.xsl"?>
+<triumph tipo="CRUISERS">
+	<titulo>Triumph Cruisers. Look relajado para los que no siguen las normas.</titulo>
+	<descripcion>Tanto si tu cruiser ideal es cromada y "presumida" o bien la prefieres oscura y "malvada", la exclusiva gama cruiser de Triumph no es un símbolo de rebeldía: es una auténtica expresión de individualismo.
+Impulsada por el motor bicilíndrico en paralelo líder en su clase o por el revolucionario tricilíndrico británico, la gama cruiser de Triumph, con sus seis potentes modelos, siempre tiene algo para ofrecer, sin perder en ningún momento sus rasgos distintivos: ingeniería de calidad, excelente manejo y el logotipo que luce en el depósito desde 1902.
+Auténtica</descripcion>
+	<motos>
+		<moto modelo="AMERICA">
+			<foto>imagenes/America_BlueCrystalWhite_RHS.jpg</foto>
+			<propiedad>
+				<especificacion>Motor</especificacion>
+				<valor>Refrigeración por aire, DOHC, bicilíndrico en paralelo, calado a 270º</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Altura asiento</especificacion>
+				<valor>690 mm (27.1 in)</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Capacidad depósito</especificacion>
+				<valor>19.3 litros (5.1 US gal)</valor>
+			</propiedad>
+		</moto>
+		<moto modelo="ROCKET III ROADSTER">
+			<foto>imagenes/Roadster_MattBlack_RHS.jpg</foto>
+			<propiedad>
+				<especificacion>Motor</especificacion>
+				<valor>Refrigeración líquida, doble árbol de levas en culata, 3 cilindros en línea</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Frenos traseros</especificacion>
+				<valor>Disco de 316mm, Pinza flotante Brembo de 2 pistones, sistema Nissin ABS</valor>
+			</propiedad>
+			<propiedad>
+				<especificacion>Instrumentos</especificacion>
+				<valor>Velocímetro ananlógico, pantalla LCD con ordenador de abordo, tacómetro y reloj analógico, sonda de combustible.</valor>
+			</propiedad>
+		</moto>
+	</motos>
+</triumph>
